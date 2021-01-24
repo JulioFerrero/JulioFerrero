@@ -9,3 +9,4 @@
 * <img src="https://emoji.gg/assets/emoji/Coin.gif" width="22px" height="22px" alt="SonicWaiting"></a> Playing video games from decades ago because my computer can't handle the new ones
 * <img src="https://emoji.gg/assets/emoji/1132_dancingcat.gif" width="22px" height="22px" alt="pop_pop_cat"></a> I love funny cat videos    
 ##### Don't be afraid to follow me, give me a star, use my code or suggest changes to the repositories.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioFerrero&layout=compact&theme=dracula">
