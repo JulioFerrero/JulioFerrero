@@ -2,7 +2,7 @@
 ### ~ La vida es dura pero mas dura es la verdura.
 [<img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>](https://cursed.cat)
 [<img alt="@gatete" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" />](https://t.me/gatete) 
-[<img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:cf19julio.ferrero@iesjoandaustria.org)
+[<img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:julio.ferrero.mp@gmail.com)
 
 ---
 
