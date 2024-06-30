@@ -1,20 +1,59 @@
-# Hi! I'm Julio Ferrero
-### ~ La vida es dura pero mas dura es la verdura.
-[<img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>](https://cursed.cat)
-[<img alt="@gatete" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" />](https://t.me/gatete) 
-[<img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:julio.ferrero.mp@gmail.com)
+<h2 align="center">Hi 👋! My name is Julio Ferrero and I'm a JS FrontEnd Developer from Barcelona!</h2>
 
----
+###
 
-<img src="https://emoji.gg/assets/emoji/9950_WumpusKeyboardSlam.gif" width="22px" height="22px" alt="aMCenchantedbook"></a> Studying multiplatform application development at [Joan d'Austria](https://agora.xtec.cat/insjoandaustria/)  
-<img src="https://emoji.gg/assets/emoji/8920_win_error.gif" width="22px" height="22px" alt="cat_glitchy"></a> Breaking my GNU+Linux installation (I use Manjaro btw)  
-<img src="https://emoji.gg/assets/emoji/Coin.gif" width="22px" height="22px" alt="SonicWaiting"></a> Playing video games from decades ago because my computer can't handle the new ones  
-<img src="https://emoji.gg/assets/emoji/1132_dancingcat.gif" width="22px" height="22px" alt="pop_pop_cat"></a> I love funny cat videos   
+<div align="center">
+  <img height="150" src="https://unavatar.io/telegram/gatete"  />
+</div>
 
----
+###
 
-Don't be afraid to follow me, give me a star, use my code or suggest changes to the repositories.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=julioferrero&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=julioferrero&locale=en&mode=weekly&theme=jolly&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julioferrero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioFerrero&layout=compact&theme=dracula">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="mailto:mail@julio.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=E-MAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/julioferrerolorca/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="t.me/gatete" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/warkayou">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=warkayou&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
